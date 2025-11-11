@@ -1,8 +1,8 @@
-============================================================
+
 Whisper → Text in Snowflake (Audio-File Workflow)
 My exact end‑to‑end setup (commands + files), in order
 Project: WHISPER_TRANSCRIBE
-============================================================
+
 
 This guide captures exactly what I've chosen and done so far, then finishes
 the remaining steps so I can run my first transcription.

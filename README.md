@@ -133,7 +133,6 @@ docker build -t whisper-api:0.1 .
 ------------------------------------------------------------
 3) Tag, login, and PUSH image to Snowflake (I DID this)
 ------------------------------------------------------------
-# Replace with the repo URL from SHOW IMAGE REPOSITORIES
 export REPO_URL="sdriskw-xw90326.registry.snowflakecomputing.com/whisper_transcribe/app/whisper_repo"
 
 docker tag whisper-api:0.1 $REPO_URL/whisper-api:0.1
@@ -184,9 +183,7 @@ I discovered That I need the CLI connection to Snowflake in order to upload the 
 
 I first Ren downloading commands : 
 
-# Download installer (latest version)
 curl -O https://sfc-repo.snowflakecomputing.com/snowsql/bootstrap/1.2/linux_x86_64/snowsql-1.2.28-linux_x86_64.bash
-# Install it (accept defaults)
 bash snowsql-1.2.28-linux_x86_64.bash
 
 

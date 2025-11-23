@@ -20,12 +20,12 @@ print("Model loaded successfully.\n")
 processed = set()
 
 def transcribe_file(file_path):
-    filename = os.path.basename(file_path)
+    filename = os.path.splitext(os.path.basename(file_path))[0]
     out_file = os.path.join(OUTPUT_FOLDER, filename + ".txt")
 
     print(f"\nTranscribing new file: {filename}")
 
-    segments, info = model.transcribe(file_path, beam_size=1)
+    segments, info = model.transcribe(file_path, beam_size=5)
 
     with open(out_file, "w", encoding="utf-8") as f:
         f.write(f"Detected language: {info.language}\n\n")

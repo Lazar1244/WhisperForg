@@ -1,0 +1,9 @@
+
+audio_input/*
+text_output/*
+
+!audio_input/.gitkeep
+!text_output/.gitkeep
+
+__pycache__/
+*.pyc

@@ -18,16 +18,32 @@ Installation de Voicemeeter Banana
 
 
 # Configuration de Voicemeeter
-Hardware Inputs
-Input 1 : Micro principal → Mode WDM  (WASAPI) choisir microphone et activer B1 pour l’enregistrement.
 
+Dans Hardware Input 1 :
+
+    Sélectionne : Mode WDM(WASAPI) -> Microphone (Realtek Audio)
+
+    Active UNIQUEMENT B2 (PAS B1 sinon mélange )
+
+    B2 = micro seul
+    Vous pouvez activer A1 dans Micro si vous voulez vous entendre (facultatif et déconseillé)
 
 Virtual Inputs
-Voicemeeter VAIO : audio interne du PC → activer A1 pour écouter et B1 pour enregistrer.
+    Virtual Input (Voicemeeter Input) -> AUDIO INTERNE
 
+    C’est le son du PC
+
+    Active UNIQUEMENT B1
+
+    B1 = audio interne seulement
+    vous pouvez activer A1 dans VAIO (audio PC) pour entendre ton PC
 
 Hardware Out
-A1 : casque ou haut-parleurs → activer A1 et B1
+    Choisis ton casque :
+
+    A1 → Haut-parleurs / écouteurs (Realtek Audio)
+
+
 
 
 

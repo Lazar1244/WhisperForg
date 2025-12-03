@@ -1,4 +1,3 @@
-
 # Enregistrement Audio Micro + Audio interne de PC avec Python et Voicemeeter Banana
 
 Cette partie permet d’enregistrer simultanément le micro et l’audio interne du PC avec Python et Voicemeeter Banana.

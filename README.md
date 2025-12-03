@@ -8,10 +8,10 @@ Python 3.10.8
 Bibliothèques Python :
 
 pip install sounddevice soundfile numpy
-Voicemeeter Banana : VB-Audio Voicemeeter
+Voicemeeter Banana : VB-Audio Voicemeeter  
 
 
-Installation de Voicemeeter Banana
+Installation de Voicemeeter Banana  https://download.vb-audio.com/Download_CABLE/VoicemeeterSetup_v2119.zip
 
 
 # Configuration de Voicemeeter

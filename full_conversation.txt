@@ -1,0 +1,15 @@
+
+--- MERGE 2 ---
+[0.00s] COMPANY: Salut, ok. Du coup, pour le projet qu'on a réalisé, dis-moi, est-ce que tu es intéressé et comment as-tu préparé la version actuelle de la chose qu'on a préparée?
+[0.00s] CLIENT: So, I have been thinking, in the way où je change la langue beaucoup, beaucoup de fois,
+[7.20s] CLIENT: how old is the person qui demande ces questions,
+[11.32s] CLIENT: et pourquoi je t'entrage de ça qui est pour Nadia, la têche petite.
+[18.06s] COMPANY: Également, dis-moi, est-ce que le client a vu beaucoup de choses?
+
+--- MERGE 1 ---
+[0.00s] COMPANY: Et justement, c'est exactement pourquoi on doit annoncer en avance qui fait quoi, d'où on obtient nos données.
+[0.00s] CLIENT: So that is exactly how we listen to the things. We listen, but we don't interrupt. That is one of the major, major things that we can fix in our relationship.
+[11.40s] CLIENT: Well, from one side, we have clients that constantly rush in, constantly want more. We need to set some boundaries. Some boundaries for you, for your success and client success. Sometimes they think they know everything. Trust me, they don't.
+[12.06s] COMPANY: C'est la confidentialité qu'on cherche.
+[15.12s] COMPANY: En anglais, on utilise le terme
+[18.88s] COMPANY: Do well, be well, produce results, be meaningful, be precise and be direct.

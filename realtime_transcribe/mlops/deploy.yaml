@@ -1,0 +1,14 @@
+name: Deploy Backend
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Build Docker
+        run: docker build -t realtime-transcribe ./backend
+      - name: Push & Deploy
+        run: echo "Pipeline de déploiement ici"

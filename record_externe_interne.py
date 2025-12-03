@@ -1,6 +1,7 @@
 import sounddevice as sd
 import soundfile as sf
 import numpy as np
+import os
 
 SEGMENT_DURATION = 10  # secondes
 
@@ -23,6 +24,8 @@ print("🔊 Son interne  :", info_int["name"], "(canaux :", channels_int, ")")
 print("\nAppuie sur Ctrl+C pour stopper.\n")
 
 segment = 0
+# Crée le dossier s'il n'existe pas
+os.makedirs("audio_input", exist_ok=True)
 
 try:
     with sd.InputStream(device=DEVICE_EXTERNE,
@@ -43,11 +46,13 @@ try:
             audio_ext = np.array(frames_ext)
             audio_int = np.array(frames_int)
 
-            file_ext = f"externe_{segment}.wav"
-            file_int = f"interne_{segment}.wav"
+            file_ext = os.path.join("audio_input", f"external_{segment}.wav")
+            file_int = os.path.join("audio_input", f"internal_{segment}.wav")
 
             sf.write(file_ext, audio_ext, rate_ext)
             sf.write(file_int, audio_int, rate_int)
+
+
 
             print(f"💾 Sauvegardé : {file_ext}")
             print(f"💾 Sauvegardé : {file_int}")

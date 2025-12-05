@@ -27,7 +27,14 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 # - CUDA available: TRUE
 # - GPU detected
 # - Warning about GPU being too new (expected, not a problem)
+# - If your computer does not have a CUDA-compatible NVIDIA GPU you must update the model loading line 16 in the file test_faster_whisper.py:
+      # Replace this (GPU required):
+        model = WhisperModel("large-v3", device="cuda", compute_type="float16")
+      # With this (CPU only):
+        model = WhisperModel("large-v3", device="cpu", compute_type="int8")
 
 # 9. Installed faster-whisper
 pip install faster-whisper
 # Installed components: ctranslate2, onnxruntime, av, tokenizers, tqdm, huggingface-hub, etc.
+
+

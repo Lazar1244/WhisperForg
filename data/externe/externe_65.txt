@@ -1,0 +1,5 @@
+
+Type      : externe
+Index     : 65
+Créé le   : 2025-12-29 11:35:35
+Contenu   : Ceci est le fichier externe_65

@@ -1,0 +1,5 @@
+
+Type      : externe
+Index     : 85
+Créé le   : 2025-12-29 11:38:56
+Contenu   : Ceci est le fichier externe_85

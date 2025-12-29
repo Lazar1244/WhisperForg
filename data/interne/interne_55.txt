@@ -1,0 +1,5 @@
+
+Type      : interne
+Index     : 55
+Créé le   : 2025-12-29 11:33:55
+Contenu   : Ceci est le fichier interne_55

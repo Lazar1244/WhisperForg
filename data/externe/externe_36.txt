@@ -1,0 +1,5 @@
+
+Type      : externe
+Index     : 36
+Créé le   : 2025-12-29 11:20:38
+Contenu   : Ceci est le fichier externe_36

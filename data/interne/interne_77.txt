@@ -1,0 +1,5 @@
+
+Type      : interne
+Index     : 77
+Créé le   : 2025-12-29 11:37:35
+Contenu   : Ceci est le fichier interne_77

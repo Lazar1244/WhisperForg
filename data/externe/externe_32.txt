@@ -1,0 +1,5 @@
+
+Type      : externe
+Index     : 32
+Créé le   : 2025-12-29 11:19:58
+Contenu   : Ceci est le fichier externe_32

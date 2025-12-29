@@ -1,0 +1,5 @@
+
+Type      : interne
+Index     : 31
+Créé le   : 2025-12-29 11:19:48
+Contenu   : Ceci est le fichier interne_31

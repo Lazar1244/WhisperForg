@@ -1,0 +1,5 @@
+
+Type      : externe
+Index     : 50
+Créé le   : 2025-12-29 11:33:05
+Contenu   : Ceci est le fichier externe_50

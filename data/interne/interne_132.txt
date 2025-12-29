@@ -1,0 +1,5 @@
+
+Type      : interne
+Index     : 132
+Créé le   : 2025-12-29 11:46:47
+Contenu   : Ceci est le fichier interne_132

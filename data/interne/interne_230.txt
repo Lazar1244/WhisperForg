@@ -1,0 +1,5 @@
+
+Type      : interne
+Index     : 230
+Créé le   : 2025-12-29 12:03:10
+Contenu   : Ceci est le fichier interne_230

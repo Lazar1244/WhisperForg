@@ -1,0 +1,5 @@
+
+Type      : interne
+Index     : 145
+Créé le   : 2025-12-29 11:48:58
+Contenu   : Ceci est le fichier interne_145

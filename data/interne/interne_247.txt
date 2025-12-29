@@ -1,0 +1,5 @@
+
+Type      : interne
+Index     : 247
+Créé le   : 2025-12-29 12:06:01
+Contenu   : Ceci est le fichier interne_247

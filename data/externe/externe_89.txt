@@ -1,0 +1,5 @@
+
+Type      : externe
+Index     : 89
+Créé le   : 2025-12-29 11:39:36
+Contenu   : Ceci est le fichier externe_89

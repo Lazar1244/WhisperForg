@@ -1,0 +1,5 @@
+
+Type      : interne
+Index     : 405
+Créé le   : 2025-12-29 12:36:44
+Contenu   : Ceci est le fichier interne_405

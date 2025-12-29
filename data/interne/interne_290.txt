@@ -1,0 +1,5 @@
+
+Type      : interne
+Index     : 290
+Créé le   : 2025-12-29 12:13:12
+Contenu   : Ceci est le fichier interne_290

@@ -1,0 +1,5 @@
+
+Type      : externe
+Index     : 138
+Créé le   : 2025-12-29 11:47:47
+Contenu   : Ceci est le fichier externe_138

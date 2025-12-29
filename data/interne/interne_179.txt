@@ -1,0 +1,5 @@
+
+Type      : interne
+Index     : 179
+Créé le   : 2025-12-29 11:54:39
+Contenu   : Ceci est le fichier interne_179

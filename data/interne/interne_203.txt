@@ -1,0 +1,5 @@
+
+Type      : interne
+Index     : 203
+Créé le   : 2025-12-29 11:58:40
+Contenu   : Ceci est le fichier interne_203

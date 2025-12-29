@@ -1,0 +1,5 @@
+
+Type      : interne
+Index     : 101
+Créé le   : 2025-12-29 11:41:36
+Contenu   : Ceci est le fichier interne_101

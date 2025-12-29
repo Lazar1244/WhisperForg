@@ -1,0 +1,5 @@
+
+Type      : externe
+Index     : 120
+Créé le   : 2025-12-29 11:44:46
+Contenu   : Ceci est le fichier externe_120

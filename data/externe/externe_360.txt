@@ -1,0 +1,5 @@
+
+Type      : externe
+Index     : 360
+Créé le   : 2025-12-29 12:24:53
+Contenu   : Ceci est le fichier externe_360

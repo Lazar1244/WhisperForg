@@ -1,0 +1,5 @@
+
+Type      : externe
+Index     : 90
+Créé le   : 2025-12-29 11:39:46
+Contenu   : Ceci est le fichier externe_90

@@ -1,0 +1,5 @@
+
+Type      : interne
+Index     : 134
+Créé le   : 2025-12-29 11:47:07
+Contenu   : Ceci est le fichier interne_134

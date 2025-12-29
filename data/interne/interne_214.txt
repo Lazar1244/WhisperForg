@@ -1,0 +1,5 @@
+
+Type      : interne
+Index     : 214
+Créé le   : 2025-12-29 12:00:30
+Contenu   : Ceci est le fichier interne_214

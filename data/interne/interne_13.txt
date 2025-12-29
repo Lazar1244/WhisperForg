@@ -1,0 +1,5 @@
+
+Type      : interne
+Index     : 13
+Créé le   : 2025-12-29 22:25:02
+Contenu   : Ceci est le fichier interne_13

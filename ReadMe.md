@@ -16,18 +16,18 @@ This repo focuses on a **solid local pipeline** that:
 
 ### Main Project 1 pipeline (Whisper, file-based)
 
-1. **Recorder** (`record_externe_interne.py`)  
+1. **Recorder** (`record_externe_interne.py`)  - Ibtissam
    Records the microphone and the internal/system audio in parallel, as WAV chunks (`10s` segments by default).
 
-2. **Transcriber** (`test_faster_whisper.py`)  
+2. **Transcriber** (`test_faster_whisper.py`) - Lazar
    Watches the `audio_input/` folder and transcribes each new audio chunk using `faster-whisper` (default: `large-v3` on GPU).
 
-3. **Auto-merger** (`auto_merge.py`)  
+3. **Auto-merger** (`auto_merge.py`) - Lazar
    Watches the `text_output/` folder and merges internal/external transcripts for each segment into:
    - `text_output/merged_<N>.txt`
    - `full_conversation.txt` (appended)
 
-4. **UI** (`ui.py`)  
+4. **UI** (`ui.py`) - tafsouth
    Watches the `text_output/` folder and displays it in a live UI that updates every time a new transcription is added
   
 

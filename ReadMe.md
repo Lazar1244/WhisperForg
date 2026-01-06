@@ -37,13 +37,13 @@ This repo focuses on a **solid local pipeline** that:
 
 ```mermaid
 flowchart LR
-  A[Call app<\n>Zoom / Meet / Discord] -->|audio output| B[Audio routing<\n>(Voicemeeter / virtual cable)]
+  A[Call app\nZoom / Meet / Discord] -->|audio output| B[Audio routing\n(Voicemeeter / virtual cable)]
   C[Microphone] --> D[record_externe_interne.py]
   B --> D
 
   D -->|external_N.wav & internal_N.wav| E[audio_input/]
 
-  E --> F[test_faster_whisper.py<\n>faster-whisper]
+  E --> F[test_faster_whisper.py\nfaster-whisper]
   F -->|external_N.txt & internal_N.txt| G[text_output/]
 
   G --> H[auto_merge.py]
